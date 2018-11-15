@@ -1,0 +1,32 @@
+﻿Build started 8/25/2016 5:03:06 PM.
+     1>Project "C:\Users\sudishrestha\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp queue.cpp
+         MyForm.cpp
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\MyForm.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\tree.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\MyForm.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\stacks.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\MyForm.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\queue.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\MyForm.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\sorting.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\MyForm.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\linkList.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         queue.cpp
+     1>c:\users\sudishrestha\documents\visual studio 2013\projects\project1\project1\queue.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sudishrestha\documents\visual studio 2013\Projects\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project1.linkList.resources /ASSEMBLYRESOURCE:Debug\Project1.MyForm.resources /ASSEMBLYRESOURCE:Debug\Project1.queue.resources /ASSEMBLYRESOURCE:Debug\Project1.sorting.resources /ASSEMBLYRESOURCE:Debug\Project1.stacks.resources /ASSEMBLYRESOURCE:Debug\Project1.tree.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\sudishrestha\documents\visual studio 2013\Projects\Project1\Debug\Project1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\linkList.obj
+         Debug\MyForm.obj
+         Debug\queue.obj
+         Debug\sorting.obj
+         Debug\stacks.obj
+         Debug\tree.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Project1.vcxproj -> C:\Users\sudishrestha\documents\visual studio 2013\Projects\Project1\Debug\Project1.exe
+     1>Done Building Project "C:\Users\sudishrestha\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.99
